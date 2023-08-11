@@ -1,0 +1,21 @@
+body{
+    background-image:url(download.img);
+    right:0;
+    left:0;
+}
+
+
+
+
+.h1{
+    background-color:antiquewhite;
+    text-align:center;
+    border-style: inherit;
+    font-style:oblique;
+    color:brown;
+}
+.p{
+    font-size:20px;
+    font-style:italic;
+    font-style:bold;
+}

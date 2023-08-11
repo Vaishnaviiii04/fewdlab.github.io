@@ -1,0 +1,23 @@
+.p1{
+    background-color:rgba(142,68,173,0.5);
+    text-align:center;
+    border-style: dashed;
+    margin:20px;
+    font-style:italic;
+    color:white;
+}
+.p2{
+    background-color:yellow;
+    border-style: dotted;
+    margin:10px;
+    font-style:oblique;
+
+
+}
+.h1{
+    font-size:24px;
+    font-style:oblique;
+    text-align:center;
+    background-color:rgb(243, 109, 138);
+    color:brown;
+}
